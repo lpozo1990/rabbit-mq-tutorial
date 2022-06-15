@@ -1,4 +1,5 @@
 # Simple tutorial of how to use the Rabbitmq API using a consumer and a producer
+- Install the dependecies via `npm i`
 - Execute the `recieve.js`
 - Execute the `send.js` to send 'hello world message'
 - Enjoy
